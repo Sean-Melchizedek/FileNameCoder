@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\FileNameCoder.exe
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\FileNameCoder.deps.json
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\FileNameCoder.runtimeconfig.json
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\FileNameCoder.dll
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\ref\FileNameCoder.dll
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\FileNameCoder.pdb
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.AssemblyInfo.cs
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.dll
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\ref\FileNameCoder.dll
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.pdb
+C:\Users\admin\source\repos\FileNameCoder\obj\Release\net6.0\FileNameCoder.genruntimeconfig.cache

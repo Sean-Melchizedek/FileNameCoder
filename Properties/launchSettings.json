@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileNameCoder": {
+      "commandName": "Project",
+      "commandLineArgs": "-encode ."
+    }
+  }
+}

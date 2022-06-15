@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\publish\FileNameCoder.exe
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\publish\FileNameCoder.dll
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\publish\FileNameCoder.deps.json
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\publish\FileNameCoder.runtimeconfig.json
+C:\Users\admin\source\repos\FileNameCoder\bin\Release\net6.0\publish\FileNameCoder.pdb
